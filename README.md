@@ -36,11 +36,3 @@ environment:
       - "MYSQL_ROOT_PASSWORD=root"
 
 <hr>
-
-### Rodar o Docker:
-docker-compose up -d
-
-<hr>
-
-### Rodar o Laravel
-php artisan serve
