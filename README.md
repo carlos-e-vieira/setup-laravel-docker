@@ -6,8 +6,12 @@ G:\Programacao\PHP\Laravel\02-Meus-Projetos\Setup-Laravel-Docker
 ### Criar e Configurar o Dockerfile
 Criar o arquivo no diretorio raiz do projeto
 
+<hr>
+
 ### Criar e Configurar o docker-compose.yml
 Criar o arquivo no diretorio raiz do projeto
+
+<hr>
 
 ### Configurar as Credenciais do DB no .ENV e docker-compose.yml
 #### ENV:
@@ -31,8 +35,12 @@ environment:
       - "MYSQL_PASSWORD=root"
       - "MYSQL_ROOT_PASSWORD=root"
 
+<hr>
+
 ### Rodar o Docker:
 docker-compose up -d
+
+<hr>
 
 ### Rodar o Laravel
 php artisan serve
