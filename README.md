@@ -1,6 +1,8 @@
 ### Instalar o Projeto
 G:\Programacao\PHP\Laravel\02-Meus-Projetos\Setup-Laravel-Docker
 
+<hr>
+
 ### Criar e Configurar o Dockerfile
 Criar o arquivo no diretorio raiz do projeto
 
